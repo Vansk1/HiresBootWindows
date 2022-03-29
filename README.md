@@ -1,0 +1,2 @@
+# HiresBootWindows
+Software de Clonagem
